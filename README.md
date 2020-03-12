@@ -1,2 +1,2 @@
 # CloudFormation
-A template that deploys an ASG behind an ELB load balancer in  two private subnets.
+A template that creates an ASG behind an ALB load balancer where the instances are deployed in two private subnets. 
